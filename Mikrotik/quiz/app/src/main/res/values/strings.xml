@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Projek Akhir</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">LOGOUT</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="rating">
+        A RatingBar is an extension of SeekBar and ProgressBar that shows a rating in stars.
+        The user can touch/drag or use arrow keys to set the rating when using the default size RatingBar.
+        The smaller RatingBar style ( R.attr.ratingBarStyleSmall) and the larger indicator-only style
+        (R.attr.ratingBarStyleIndicator) do not support user interaction and should only be used as indicators.
+        When using a RatingBar that supports user interaction, placing widgets to the left or right of the
+        RatingBar is discouraged.</string>
+
+    <string name="mikrotik">
+        \t\t\tMikrotik OS merupakan sistem operasi khusus yang digunakan untuk memanajemen network. Kata Mikrotik merujuk pada bahasa Latvia tempat OS ini berasal, yang berarti network kecil. Dengan visi memudahkan manajemen networking, Mikrotik Router OS menawarkan kemudahan implementasi, kemudahan konfigurasi dan kemudahan dalam integrasi dengan perangkat lain.
+        \n\n\t\t\tMikrotik hadir dalam dua jenis, yaitu Mikrotik Router OS (ROS) dan Mikrotik RouterBoard. Mikrotik Routerboard merupakan hardware spesifik yang telah ditanamkan sistem operasi mikrotik untuk dijadikan router.
+        \n\n\t\t\tMikrotik menyediakan tools untuk mempermudah memanajemen perangkat atau os nya. Tools yang umum digunakan adalah Winbox. Tool ini berbasis GUI yang dikembangkan untuk system operasi windows. Winbox menyediakan shortcut untuk membantu memanajemen perangkat mikrotik.
+    </string>
+
+    <string name="sejarahmikrotik">
+        \t\t\tMikroTik adalah sebuah perusahaan kecil berkantor pusat di Riga, Ibukota Latvia, sebuah negara pecahan Uni Soviet yang bersebelahan dengan Rusia. Mikrotik merupakan produsen software dan hardware router MikroTik. Dengan mikrotik maka teknologi internet menjadi lebih cepat, handal dan terjangkau untuk kalangan pengguna yang lebih luas.
+        \n\t\t\tPembentukan MikroTik diprakarsai oleh John Trully dan Arnis Riekstins. John Trully adalah seorang berkewarganegaraan Amerika yang berimigrasi ke Latvia. Di Latvia ia bejumpa dengan Arnis, Seorang darjana Fisika dan Mekanik sekitar tahun 1995.
+        \n\t\t\tJohn dan Arnis mulai me-routing dunia pada tahun 1996 (misi MikroTik adalah me-routing seluruh dunia). Mulai dengan sistem Linux dan MS-DOS yang dikombinasikan dengan teknologi Wireless-LAN (WLAN) Aeronet berkecepatan 2 Mbps di Moldova, negara tetangga Latvia, baru kemudian melayani lima pelanggannya di Latvia.
+    </string>
+
+    <string name="jenismikrotik">
+    Adapun berbagai jenis dari Mikrotik yaitu:
+    \n1. Mikrotik RouterOS
+        \n\t\t\tMikroTik RouterOS yang berbentuk software yang dapat didownload di www.mikrotik.com. Dapat diinstal pada kompuetr rumahan (PC). Mikrotik RouterOS adalah sebuah sofware yang berfungsi mengubah PC (komputer) menjadi sebuah router. Mikrotik RouterOS layaknya IOS cisco yang diinstall di dalam Router Cisco, hanya saja IOS cisco tidak bisa di install di dalam komputer kecuali menggunakan emulator seperti GNS3 dan dynamips. Pada dasarnya RouterOS merupakan sistem operasi Mikrotik RouterBOARD yang berbasis Kernel Linux v2.6.
+    \n2. Mikrotik RouterBOARD
+        \n\t\t\tMikroTik RouterBoard yaitu BUILT-IN Hardware Mikrotik dalam bentuk perangkat keras yang khusus dikemas dalam board router yang didalamnya sudah terinstal MikroTik RouterOS. Selain bisa di install di dalam PC, mikrotik RouterOS juga bisa diinstall pada sebuah hardware khusus yang bernama RouterBOARD.
+    </string>
+
+    <string name="DasarJaringan">
+        \t\t\tJaringan komputer adalah dua komputer atau lebih yang saling dihubungkan, sehingga antar komputer dapat saling berkomunikasi, berbagi files/data, serta berbagai fasilitas (printer, scanner) dengan menggunakan media tertentu ( kabel, fiber optic, gelombang radio, dsb). Ada juga yang mendefinisikan bahwa jaringan komputer adalah sebuah kumpulan komputer, printer dan peralatan lainnya yang terhubung.
+        \n\t\t\tInformasi dan data bergerak melalui kabel-kabel sehingga memungkinkan pengguna jaringan komputer dapat saling bertukar dokumen dan data, mencetak pada printer yang sama dan bersama sama menggunakan hardware atau software yang terhubung dengan jaringan.
+        \n\t\t\tSebuah jaringan biasanya terdiri dari 2 atau lebih komputer yang saling berhubungan diantara satu dengan yang lain, dan saling berbagi sumber daya misalnya CDROM, Printer, pertukaran file, atau memungkinkan untuk saling berkomunikasi secara elektronik.
+    </string>
+
+    <string name="konsepjaringanwireless">
+        \t\t\tTeknologi wireless LAN menjadi sangat popular di banyak aplikasi. Setelah evaluasi terhadap teknologi tersebut dilakukan, menjadikan para pengguna merasa puas dan meyakini realibility teknologi ini sudah siap untuk digunakan dalam skala luas dan komplek pada jaringan tanpa kabel.
+        \n\n\t\t\tBila Anda ingin mengkoneksikan dua komputer atau lebih di lokasi yang sukar atau tidak mungkin untuk memasang kabel jaringan, sebuah jaringan wireless (tanpa kabel) mungkin cocok untuk diterapkan. Setiap PC pada jaringan wireless dilengkapi dengan sebuah radio tranceiver, atau biasanya disebut adapter atau kartu wireless LAN, yang akan mengirim dan menerima sinyal radio dari dan ke PC lain dalam jaringan. Anda akan mendapatkan banyak adapter dengan konfigurasi internal dan eksternal, baik untuk PC desktop maupun notebook.
+    </string>
+
+    <string name="jaringanwireless">
+        \t\t\tJaringan wireless adalah jaringan yang mengkoneksikan dua komputer atau lebih menggunakan sinyal radio, cocok untuk berbagi pakai file, printer, atau akses Internet.
+        \n\n\t\t\tJaringan Wireless LAN adalah jaringan LAN yang di bangun dengan menggunakan media transmisi Gelombang Radio. dimana setiap Host harus di lengkapi dengan Adapter wireless ( alat yang berfungsi untuk menerima dan mengrim informasi melalui gelombang radio.
+    </string>
+
+    <string name="konfigurasimikrotik">
+    Untuk melakukan konfigurasi mikrotik, maka lakukan tahapan berikut:
+        \n\t\t\t1. Reset Konfigurasi Default MikroTik
+        \n\t\t\t2. Konfigurasi WAN Di MikroTik Yang
+        \n\t\t\t\t\t Menuju Ke ISP ( Indihome, Oxygen,
+        \n\t\t\t\t\t MyRepublic, Biznet, Dll )
+        \n\t\t\t3. Verifikasi Ping Dari MikroTik Ke Internet
+        \n\t\t\t4. Memberikan IP Address Untuk Jaringan
+        \n\t\t\t\t\t LAN
+        \n\t\t\t5. Buatkan DHCP Server Untuk Ke Jaringan
+        \n\t\t\t\t\t LAN Sehingga Laptop/PC Dapat IP
+        \n\t\t\t\t\t Otomatis
+        \n\t\t\t6. Verifikasi Pastikan Laptop/PC agar
+        \n\t\t\t\t\t Mendapatkan IP Otomatis Dan Bisa
+        \n\t\t\t\t\t Ping Ke Router
+        \n\t\t\t7. Ganti Nama Router Dan Interface Untuk
+        \n\t\t\t\t\t Identitas Router Anda
+    </string>
+
+    <string name="anggota1">Banjarmasin, 12 Agustus 2003</string>
+
+    <string name="ketua">Anjir Muara Lama, 22 Juli 2003</string>
+
+    <string name="anggota2">Kandangan, 12 Mei 2000</string>
+
+    <string name="faldi">211013120</string>
+
+    <string name="yuli">2110131220001</string>
+
+    <string name="fiyah">21101319</string>
+
+    <string name="splass">WELLCOME TO \nYSR MIKROTIK</string>
+</resources>
